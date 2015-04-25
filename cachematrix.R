@@ -1,4 +1,4 @@
-## These functions store a matrix and and cache the matrix inverse
+## These functions store a matrix and cache the matrix inverse
 
 ## Creates a list containing functions to set/get the matrix and its inverse
 
